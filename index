@@ -1,7 +1,24 @@
-<!doctype html>
+ <!doctype html>
 <head>
-<title>000의 첫 github 페이지</title>
-</head>
+	<title>자바스크립트 실습</title>
+<head>
 <body>
-<h1>Hello, World!</h1>
-</body>
+	<h1>자바스크립트 실습<h1>
+	<script>
+		//변수와 함수
+		//variable and funciton 
+		var a;
+		var b;
+		a = 10;
+		b = 15; 
+		var c = a + b;
+		console.log(c);
+		console.log(a+b);
+		console.log(10+15);
+
+		a = "오늘은";
+		b = "목요일입니다";
+		console.log(a+b);
+
+	<script>
+<body>
